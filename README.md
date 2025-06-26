@@ -7,24 +7,10 @@ Duration: 1 Month (June 16 – July 16, 2025)
 Trainer: Raghunandan M S (Skills4Future)
 Focus Area: Environmental Analytics & Machine Learning (Green Skills)
 Projects:
-Carbon Emissions Prediction
-Greenhouse Gas Emissions Prediction
 Water Quality Predictions
 Repository Structure
-Each project is organized into its own folder, containing weekly submissions, & datasets.
+Project is organized into folder, containing weekly submissions, & datasets.
 
-1. Carbon Emissions Prediction
-Goal: Predict carbon emissions from country specific data.
-Contents:
-Weekly submissions (Week 1 to Week 3)
-Datasets and preprocessing scripts
-Model training notebooks and results
-2. Greenhouse Gas Emissions Prediction
-Goal: Forecast GHG emission trends using predictive modeling techniques.
-Contents:
-Weekly progress submissions
-Dataset exploration and visualization
-Machine learning models and evaluation reports
 3. Water Quality Predictions
 Goal: Use MultiOutput models to determine water potability and quality indicators.
 Contents:
